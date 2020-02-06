@@ -1,0 +1,45 @@
+c:\users\intel\documents\visual studio 2010\Projects\autoshutdownapp\autoshutdownapp\bin\Debug\autoshutdownapp.exe
+c:\users\intel\documents\visual studio 2010\Projects\autoshutdownapp\autoshutdownapp\bin\Debug\autoshutdownapp.pdb
+c:\users\intel\documents\visual studio 2010\Projects\autoshutdownapp\autoshutdownapp\bin\Debug\autoshutdownapp.xml
+c:\users\intel\documents\visual studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Form1.resources
+c:\users\intel\documents\visual studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Resources.resources
+c:\users\intel\documents\visual studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.vbproj.GenerateResource.Cache
+c:\users\intel\documents\visual studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.exe
+c:\users\intel\documents\visual studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.xml
+c:\users\intel\documents\visual studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.pdb
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.exe
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.xml
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.pdb
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\autoshutdownapp\autoshutdownapp\bin\Debug\autoshutdownapp.exe
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\autoshutdownapp\autoshutdownapp\bin\Debug\autoshutdownapp.pdb
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\autoshutdownapp\autoshutdownapp\bin\Debug\autoshutdownapp.xml
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Form1.resources
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Resources.resources
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.vbproj.GenerateResource.Cache
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Form2.resources
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Form2.resources
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Form3.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.exe
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.xml
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.pdb
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\autoshutdownapp\autoshutdownapp\bin\Debug\autoshutdownapp.exe
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\autoshutdownapp\autoshutdownapp\bin\Debug\autoshutdownapp.pdb
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\autoshutdownapp\autoshutdownapp\bin\Debug\autoshutdownapp.xml
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Form1.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Form2.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Form3.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Resources.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2012\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.vbproj.GenerateResource.Cache
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\bin\Debug\autoshutdownapp.exe
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\bin\Debug\autoshutdownapp.pdb
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\bin\Debug\autoshutdownapp.xml
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.vbprojAssemblyReference.cache
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Form1.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Form2.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Form3.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.Resources.resources
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.vbproj.GenerateResource.cache
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.vbproj.CoreCompileInputs.cache
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.exe
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.xml
+C:\Users\Filip Marchidan\Documents\Visual Studio 2017\Projects\autoshutdownapp\autoshutdownapp\obj\x86\Debug\autoshutdownapp.pdb
